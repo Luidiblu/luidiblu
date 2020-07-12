@@ -4,6 +4,10 @@
     I'm a Software Engineer and Infosec Enthusiast
 </p>
 
+<div align='center'>
+    <img src='https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif'>
+</div>
+
 <p align="center">
     <a href="https://ko-fi.com/diegopisani">
         <img src="https://img.shields.io/badge/Support%20Me-Ko--fi-orange.svg?style=flat&colorA=35383d" alt="Ko-fi donate link"/>
