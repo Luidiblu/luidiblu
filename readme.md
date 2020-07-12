@@ -16,8 +16,8 @@
     </a>
 </p>
 
+<div align='center'>
+    <img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/021a494922172bfe1c9fa4e80d25ac90228d72cf'>
+</div>
 
-
-
-$$G_j^i \equiv R_j^i - \frac 1 2 \delta_j^i R$$
 "Newton, forgive me; you found the only way which, in your age, was just about possible for a man of highest thought and creative power" - Albert Einstein
