@@ -6,6 +6,7 @@
 
 <div align='center'>
     <img src='https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif'>
+    <script src="https://www.hackthebox.eu/badge/332060"></script>
 </div>
 
 <p align="center">
