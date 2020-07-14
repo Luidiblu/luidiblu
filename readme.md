@@ -6,7 +6,10 @@
 
 <div align='center'>
     <img src='https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif'>
-    <script src="https://www.hackthebox.eu/badge/332060"></script>
+</div>
+
+<div align='center'>
+    <img src="http://www.hackthebox.eu/badge/image/332060" alt="Hack The Box">
 </div>
 
 <p align="center">
