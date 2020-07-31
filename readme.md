@@ -1,11 +1,11 @@
 <h1 align="center"> Diego Pisani </h1>
 
 <p align='center'>
-    I'm a Software Engineer and Infosec Enthusiast
+    I'm a Software Engineer.
 </p>
 
 <div align='center'>
-    <img src='https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif'>
+    <img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif'>
 </div>
 
 <p align="center">
