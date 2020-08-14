@@ -16,6 +16,20 @@
     </a>
 </p>
 
+<br />
+<br />
+
+<div align='center'>
+    <img src="https://github-readme-stats.vercel.app/api?username=luidiblu&show_icons=true&hide_border=true&theme=merko" />
+</div>
+
+<br />
+<br />
+
+<div align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidiblu&layout=compact&theme=merko" />
+</div>
+
 <div align='center'>
     <img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/021a494922172bfe1c9fa4e80d25ac90228d72cf'>
 </div>
