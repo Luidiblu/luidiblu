@@ -8,6 +8,15 @@
     <img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif'>
 </div>
 
+<div align='center'>
+    <img src="https://github-readme-stats.vercel.app/api?username=luidiblu&show_icons=true&hide_border=true&theme=merko" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
 <p align="center">
     <a href="https://ko-fi.com/diegopisani">
         <img src="https://img.shields.io/badge/Support%20Me-Ko--fi-orange.svg?style=flat&colorA=35383d" alt="Ko-fi donate link"/>
@@ -21,18 +30,6 @@
 </p>
 
 <br />
-<br />
-
-<div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=luidiblu&show_icons=true&hide_border=true&theme=merko" />
-</div>
-
-<br />
-<br />
-
-<div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidiblu&layout=compact&theme=merko" />
-</div>
 
 <div align='center'>
     <img src='https://wikimedia.org/api/rest_v1/media/math/render/svg/021a494922172bfe1c9fa4e80d25ac90228d72cf'>
