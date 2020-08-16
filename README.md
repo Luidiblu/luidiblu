@@ -1,4 +1,4 @@
-### Hi there, I'm [Diego!](https://diegopisani.github.io) 👋
+### Hi there, I'm [Diego!](https://ko-fi.com/diegopisani) 👋
 
 <a href="https://twitter.com/diegopisani_" target="_blank">
   <img align="left" alt="Diego Pisani | Twitter" width="21px" src="https://raw.githubusercontent.com/Luidiblu/luidiblu/master/assets/twitter.svg" />
