@@ -1,10 +1,10 @@
 ### Hi there, I'm [Diego!](https://diegopisani.github.io) 👋
 
 <a href="https://twitter.com/diegopisani_">
-  <img align="left" alt="Diego Pisani | Twitter" width="21px" src="https://raw.githubusercontent.com/luidiblu/luidiblu/master/assets/twitter.svg" />
+  <img align="left" alt="Diego Pisani | Twitter" width="21px" src="https://raw.githubusercontent.com/Luidiblu/luidiblu/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/tHvRRF7">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/luidiblu/luidiblu/master/assets/discord-round.svg" />
+  <img align="left" alt="Diego's Discord" width="21px" src="https://raw.githubusercontent.com/luidiblu/Luidiblu/master/assets/discord-round.svg" />
 </a>
 
 <br />
