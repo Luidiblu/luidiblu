@@ -44,6 +44,6 @@ Hi, I'm Diego Pisani, a passionate self-taught backEnd developer from Brasil.
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </code>
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=luidiblu&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=luidiblu&show_icons=true&include_all_commits=true&theme=radical" alt="Diego Pisani's github stats" />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luidiblu&layout=compact&theme=radical" />
