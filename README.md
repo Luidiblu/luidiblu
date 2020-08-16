@@ -1,9 +1,9 @@
 ### Hi there, I'm [Diego!](https://diegopisani.github.io) 👋
 
-<a href="https://twitter.com/diegopisani_">
+<a href="https://twitter.com/diegopisani_" target="_blank">
   <img align="left" alt="Diego Pisani | Twitter" width="21px" src="https://raw.githubusercontent.com/Luidiblu/luidiblu/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/tHvRRF7">
+<a href="https://discord.gg/tHvRRF7" target="_blank">
   <img align="left" alt="Diego's Discord" width="21px" src="https://raw.githubusercontent.com/luidiblu/Luidiblu/master/assets/discord-round.svg" />
 </a>
 
