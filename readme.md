@@ -13,9 +13,6 @@
 </div>
 
 <br />
-<br />
-<br />
-<br />
 
 <p align="center">
     <a href="https://ko-fi.com/diegopisani">
