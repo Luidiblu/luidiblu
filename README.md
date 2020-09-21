@@ -1,5 +1,3 @@
-<img align="left" height="200" src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif"/>
-
 ### Hi there, I'm [Diego!](https://ko-fi.com/diegopisani) 👋
 
 <br />
