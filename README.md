@@ -1,4 +1,4 @@
-### Hi there, I'm [Diego!](https://ko-fi.com/diegopisani) 👋
+### Hello there, I'm [Diego!](https://ko-fi.com/diegopisani) 👋
 
 <br />
 <br />
