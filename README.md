@@ -9,5 +9,5 @@
 ```
   - Living in São Paulo, Brazil 🇧🇷.
   - 19 years old.
-  - Community manager (Boitatech).
+  - Community founder (Boitatech).
 ```
